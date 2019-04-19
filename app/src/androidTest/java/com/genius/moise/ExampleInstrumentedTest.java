@@ -1,4 +1,4 @@
-package com.genius.moise;
+package com.genius.aime;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
