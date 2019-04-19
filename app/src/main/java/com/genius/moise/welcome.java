@@ -1,4 +1,4 @@
-package com.genius.moise;
+package com.genius.aime;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
